@@ -1,6 +1,6 @@
 Name:		texlive-emojicite
 Version:	55131
-Release:	1
+Release:	2
 Summary:	Add emojis to citations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/emojicite
