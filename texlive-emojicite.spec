@@ -3,7 +3,7 @@ Version:	55131
 Release:	2
 Summary:	Add emojis to citations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/emojicite
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/emojicite
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/emojicite.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/emojicite.doc.r%{version}.tar.xz
